@@ -1,6 +1,6 @@
 # How to become a contributor and submit your own code
 
-To contribute with a small fix, simply create a pull request against the appropriate branch variant. See [Development branches](https://github.com/rajtheinnovator/EnRoomRepoPattern/wiki/Development-branches) for more information or create an [issue](https://github.com/enpassio/EnRoomRepoPattern/issues) if you're not sure what branch to target.
+To contribute with a small fix, simply create a pull request against the appropriate branch variant. See [Development branches](https://github.com/enpassio/EnRoomRepoPattern/wiki/Development-branches) for more information or create an [issue](https://github.com/enpassio/EnRoomRepoPattern/issues) if you're not sure what branch to target.
 
 Before starting work on new sample intended for submission, please open an issue to discuss it with the team. This will allow us to review the architecture and frameworks used to determine if a spec-compatible app is likely to be accepted.
 
