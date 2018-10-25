@@ -16,9 +16,9 @@ This project hosts each sample app in separate repository branches. For more inf
 
 | Sample | Description |
 | ------------- | ------------- |
-| [dev‑todo‑mvvm‑rxjava](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvvm-rxjava/) | Based on the todo-rxjava sample, this version incorporates the [Model‑View‑ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) pattern.|
+| [dev-room-news](https://github.com/enpassio/EnRoomRepoPattern/tree/dev-room-news) | Based on the todo-rxjava sample, this version incorporates the [Model‑View‑ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) pattern.|
 
-For information about planned samples, see ["New sample" issues](https://github.com/googlesamples/android-architecture/issues?q=is%3Aissue+is%3Aopen+label%3A%22New+sample%22).
+For information about planned samples, see ["New sample" issues](https://github.com/enpassio/EnRoomRepoPattern/issues?q=is%3Aissue+is%3Aopen+label%3A%22New+sample%22).
 
 
 ## Choose a sample for your app
@@ -35,7 +35,7 @@ Each sample includes a dedicated `README.md` file where you can find related met
 
 ## Open a sample in Android Studio
 
-To open one of the samples in Android Studio, begin by checking out one of the sample branches, and then open the `room/` directory in Android Studio. The following series of steps illustrate how to open the [room-news](https://github.com/enpassio/EnRoomRepoPattern/tree/room-new) sample.
+To open one of the samples in Android Studio, begin by checking out one of the sample branches, and then open the `room/` directory in Android Studio. The following series of steps illustrate how to open the [room-news](https://github.com/enpassio/EnRoomRepoPattern/tree/room-news) sample.
 
 **Note:** The master branch does not compile.
 
